@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or its archived results, please cite the versioned Zenodo release."
+type: software
+title: "Broken Windows 311: Reproducible code and results for NYC and Chicago municipal service-request analyses"
+abstract: >-
+  Reproducible Python code, cleaned Jupyter notebooks, machine-readable result
+  tables, figures, and provenance metadata for comparative analyses of municipal
+  311 service requests in New York City and Chicago. The archive covers data
+  preparation, fixed-effects and spatial models, responsiveness interactions,
+  machine-learning prediction, SHAP explainability, heterogeneous effects, and
+  cross-lag analyses. It excludes the manuscript and raw or analysis-ready data.
+authors:
+  - family-names: "Le"
+    given-names: "Ngoc Hieu"
+    affiliation: "Posts and Telecommunications Institute of Technology"
+    orcid: "https://orcid.org/0000-0002-1133-1433"
+version: 1.0.0
+date-released: 2026-09-27
+repository-code: "https://github.com/occbuu/broken-windows"
+url: "https://github.com/occbuu/broken-windows"
+keywords:
+  - "311 service requests"
+  - "broken windows theory"
+  - "municipal responsiveness"
+  - "collective efficacy"
+  - "neighborhood disorder"
+  - "urban computing"
+  - "spatial econometrics"
+  - "machine learning"
+  - "explainable artificial intelligence"
+  - "reproducible research"

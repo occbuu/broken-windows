@@ -1,0 +1,38 @@
+{
+  "title": "Broken Windows 311: Reproducible code and results for NYC and Chicago municipal service-request analyses",
+  "description": "<p>This software archive contains the reproducible code and generated results for a comparative analysis of municipal 311 service requests in New York City and Chicago.</p><p>The workflow covers raw-data validation and preparation, complaint-domain construction, non-negative matrix factorization of complaint vocabularies, tract and month fixed-effects models, municipal-responsiveness interactions, spatial diagnostics and spatial models, machine-learning prediction, SHAP explainability, heterogeneous-effect estimation, house-value cross-lags, crime cross-lags for New York City, and a Chicago robustness suite.</p><p>The archive includes Python scripts, cleaned Jupyter notebooks, machine-readable CSV and JSON result tables, figures, dependency specifications, derived-data schemas, and data-source instructions. It intentionally excludes the manuscript, reviewer documents, raw microdata, analysis-ready Parquet files, virtual environments, caches, and temporary logs. Raw inputs remain subject to the terms of their original public data providers.</p>",
+  "creators": [
+    {
+      "name": "Le, Ngoc Hieu",
+      "affiliation": "Posts and Telecommunications Institute of Technology",
+      "orcid": "0000-0002-1133-1433"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "311 service requests",
+    "broken windows theory",
+    "municipal responsiveness",
+    "collective efficacy",
+    "neighborhood disorder",
+    "civic reporting",
+    "urban computing",
+    "spatial econometrics",
+    "machine learning",
+    "explainable artificial intelligence",
+    "New York City",
+    "Chicago",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/occbuu/broken-windows",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Code and generated results only. No manuscript, reviewer files, raw microdata, or analysis-ready Parquet datasets are included."
+}
