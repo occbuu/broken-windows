@@ -1,0 +1,8 @@
+term,coef,se,p
+Intercept,0.6368,0.0354,0.0000
+resp_hi,0.0096,0.0185,0.6048
+d_boundary,0.0030,0.0133,0.8189
+resp_hi:d_boundary,-0.0073,0.0176,0.6787
+disadvantage,-0.0002,0.0023,0.9236
+stability,-0.0208,0.0049,0.0000
+log_density,0.0277,0.0035,0.0000

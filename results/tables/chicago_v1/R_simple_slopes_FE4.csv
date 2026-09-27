@@ -1,0 +1,4 @@
+Responsiveness,Slope,SE,note
+-1 SD (unresponsive),0.0172,0.0011,SE ignores cov
+Mean,0.0163,0.0009,FE4
++1 SD (responsive),0.0154,0.0011,SE ignores cov

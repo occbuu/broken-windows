@@ -1,0 +1,5 @@
+path,est,se
+a: disorder -> responsiveness,0.0661,0.0023
+b: responsiveness -> repeat,0.0051,0.0002
+c': direct disorder -> repeat,0.0023,0.0002
+a*b: indirect,0.0003,

@@ -1,0 +1,12 @@
+check,passed,detail
+NYC panel non-empty,True,n=179814
+NYC tracts in expected range,True,2222
+"repeat_rate within [0,1]",True,0.000-1.000
+responsiveness standardised,True,"mean -0.000, sd 1.000"
+M4 disorder estimated,True,0.004216570930088553
+Moran's I positive,True,0.7520756767060419
+NMF topics written,True,6
+July 2020 DiD estimated,True,0.08357895932978149
+Chicago replication present,True,841
+figures written,True,13
+tables written,True,23

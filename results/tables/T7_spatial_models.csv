@@ -1,0 +1,24 @@
+model,term,coef,se,z,p
+OLS,CONSTANT,0.4953,0.0194,25.5315,0.0000
+OLS,disorder_rate,0.0004,0.0000,9.4820,0.0000
+OLS,resp,0.0096,0.0020,4.9400,0.0000
+OLS,disadvantage,-0.0092,0.0011,-8.2838,0.0000
+OLS,stability,-0.0522,0.0013,-39.9033,0.0000
+OLS,log_density,0.0339,0.0018,18.8067,0.0000
+OLS,log_pop,0.0051,0.0023,2.1796,0.0293
+Spatial lag (SAR),CONSTANT,0.1771,0.0188,9.3962,0.0000
+Spatial lag (SAR),disorder_rate,0.0002,0.0000,6.4810,0.0000
+Spatial lag (SAR),resp,0.0095,0.0015,6.3305,0.0000
+Spatial lag (SAR),disadvantage,-0.0041,0.0009,-4.7379,0.0000
+Spatial lag (SAR),stability,-0.0295,0.0013,-22.6986,0.0000
+Spatial lag (SAR),log_density,0.0122,0.0016,7.6151,0.0000
+Spatial lag (SAR),log_pop,0.0087,0.0018,4.8638,0.0000
+Spatial lag (SAR),W_repeat_rate,0.5758,0.0209,27.5735,0.0000
+Spatial error (SEM),CONSTANT,0.6590,0.0295,22.3756,0.0000
+Spatial error (SEM),disorder_rate,0.0002,0.0001,1.5902,0.1118
+Spatial error (SEM),resp,0.0144,0.0030,4.7819,0.0000
+Spatial error (SEM),disadvantage,-0.0032,0.0011,-2.9049,0.0037
+Spatial error (SEM),stability,-0.0390,0.0018,-21.1415,0.0000
+Spatial error (SEM),log_density,0.0184,0.0029,6.3016,0.0000
+Spatial error (SEM),log_pop,0.0040,0.0025,1.5685,0.1168
+Spatial error (SEM),lambda,0.7964,0.0164,48.4728,0.0000

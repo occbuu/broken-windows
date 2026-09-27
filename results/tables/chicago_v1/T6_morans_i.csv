@@ -1,0 +1,5 @@
+Variable,MoranI,p
+repeat_rate,0.4002,0.0010
+disorder_rate,0.6034,0.0010
+resp,0.6867,0.0010
+complaint_rate,0.5242,0.0010

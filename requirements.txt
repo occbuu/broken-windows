@@ -1,0 +1,23 @@
+# Prep + analysis (local or lab)
+pandas>=2.0
+numpy>=1.26
+pyarrow>=14
+geopandas>=0.14
+shapely>=2.0
+requests>=2.31
+tqdm>=4.66
+statsmodels>=0.14
+scikit-learn>=1.4
+lightgbm>=4.0
+shap>=0.44
+libpysal>=4.10
+esda>=2.5
+spreg>=1.4
+scipy>=1.11
+matplotlib>=3.8
+econml>=0.15
+
+# GeoAI notebook (Paper6_Colab_GeoAI_OSM.ipynb)
+pyrosm>=0.13
+torch>=2.2
+torch-geometric>=2.5

@@ -1,0 +1,7 @@
+topic,top_types,max_loading
+0,"Illegal Parking, Abandoned Vehicle, Street Condition, Noise, Missed Collection, Street Light Condition, Traffic Signal Condition, Dirty Condition",14.3648
+1,"Noise - Residential, UNSANITARY CONDITION, Non-Emergency Police Matter, Noise, PLUMBING, PAINT/PLASTER, WATER LEAK, DOOR/WINDOW",8.8820
+2,"HEAT/HOT WATER, UNSANITARY CONDITION, PLUMBING, PAINT/PLASTER, DOOR/WINDOW, WATER LEAK, GENERAL, ELECTRIC",6.7384
+3,"Request Large Bulky Item Collection, Street Condition, Missed Collection (All Materials), Damaged Tree, Non-Emergency Police Matter, Street Light Condition, Water System, Sanitation Condition",6.4423
+4,"Noise - Street/Sidewalk, Noise - Vehicle, UNSANITARY CONDITION, Noise - Commercial, Water System, PAINT/PLASTER, PLUMBING, Homeless Person Assistance",6.0174
+5,"Blocked Driveway, Abandoned Vehicle, Derelict Vehicles, Missed Collection, Street Condition, Water System, UNSANITARY CONDITION, Sewer",6.9993

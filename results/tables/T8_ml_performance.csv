@@ -1,0 +1,6 @@
+Model,Split,R2,MAE
+Ridge (holdout),last 12 months (2025),0.6775,0.0369
+LightGBM (holdout),last 12 months (2025),0.7457,0.0320
+MLP 128-64 (holdout),last 12 months (2025),0.7238,0.0333
+LightGBM (random 20%),i.i.d. split,0.7904,
+Spatial GNN (GraphSAGE-lite),20% tracts,0.7534,

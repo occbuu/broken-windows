@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+DataPaper6/
+derived/
+draft_preview/
+*.docx
+*.pdf
+*.tex
+*.aux
+*.log
+*.out
+.DS_Store
+Thumbs.db
+
