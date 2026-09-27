@@ -1,13 +1,15 @@
 # Zenodo release checklist
 
+Version 1.0.0 has been published at https://doi.org/10.5281/zenodo.22988376 from GitHub release https://github.com/occbuu/broken-windows/releases/tag/V1.0.0.
+
 ## Before creating the GitHub release
 
 - [ ] Review `.zenodo.json`, especially creator name, affiliation, ORCID, title, and version.
 - [ ] Choose a license and add the corresponding license file(s) to the repository.
 - [ ] Confirm that `.zenodo.json`, `CITATION.cff`, `ZENODO_METADATA.md`, and these release notes are committed to the default branch.
 - [ ] Confirm that no manuscript, reviewer file, raw data, private path, credential, or large derived dataset has been added.
-- [ ] Create the Git tag `v1.0.0` from the exact commit to be archived.
-- [ ] Create a GitHub release titled `v1.0.0 — Initial reproducibility release` and paste `RELEASE_NOTES_v1.0.0.md` into its description.
+- [x] Create the Git tag `V1.0.0` from the exact commit to be archived.
+- [x] Create the GitHub release titled `Version 1.0.0 — initial reproducibility release`.
 
 ## Zenodo–GitHub route
 
@@ -29,8 +31,8 @@
 
 ## After Zenodo assigns the DOI
 
-- [ ] Add the DOI to `CITATION.cff` under `identifiers`.
-- [ ] Add a DOI badge and the preferred citation to `README.md`.
-- [ ] Add the DOI to the article's data/code availability statement.
-- [ ] Commit those changes and use a new version if the archived files themselves must change.
-- [ ] Preserve the version-specific DOI for exact reproducibility; use the all-versions/concept record when referring generally to the evolving software project.
+- [x] Add the DOI to `CITATION.cff` under `identifiers`.
+- [x] Add a DOI badge and the preferred citation to `README.md`.
+- [x] Add the DOI to the article's data/code availability statement.
+- [x] Commit the post-publication DOI metadata to the Git repository.
+- [x] Preserve the version-specific DOI for exact reproducibility.

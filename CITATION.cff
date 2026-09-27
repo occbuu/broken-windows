@@ -17,7 +17,10 @@ authors:
 version: 1.0.0
 date-released: 2026-09-27
 repository-code: "https://github.com/occbuu/broken-windows"
-url: "https://github.com/occbuu/broken-windows"
+url: "https://doi.org/10.5281/zenodo.22988376"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22988376"
 keywords:
   - "311 service requests"
   - "broken windows theory"

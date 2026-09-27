@@ -1,6 +1,10 @@
 # Zenodo metadata — copy/paste version
 
-Use the following values if creating the record manually. The same core metadata is encoded in `.zenodo.json` for the GitHub–Zenodo integration.
+Published record: https://doi.org/10.5281/zenodo.22988376
+
+GitHub release: https://github.com/occbuu/broken-windows/releases/tag/V1.0.0
+
+The following values document the metadata used for Version 1.0.0. The same core metadata is encoded in `.zenodo.json` for the GitHub–Zenodo integration.
 
 ## Resource type
 
@@ -17,6 +21,10 @@ Broken Windows 311: Reproducible code and results for NYC and Chicago municipal 
 ## Version
 
 1.0.0
+
+## DOI
+
+10.5281/zenodo.22988376
 
 ## Creator
 
@@ -73,12 +81,6 @@ After the journal article receives a DOI, add it as another related work:
 
 Code and generated results only. No manuscript, reviewer files, raw microdata, or analysis-ready Parquet datasets are included.
 
-## License — confirm before publication
+## Preferred citation
 
-No license has been imposed automatically. Recommended options:
-
-- **MIT** if the Zenodo record is treated primarily as research software.
-- **CC BY 4.0** for result tables, figures, and documentation.
-- For explicit dual licensing, add license files to the repository stating that source code is MIT and `results/` plus documentation are CC BY 4.0, then select the primary software license in Zenodo.
-
-Do not publish the Zenodo record until the intended license has been selected and added consistently to both GitHub and Zenodo.
+Le, N. H. (2026). *Broken Windows 311: Reproducible code and results for NYC and Chicago municipal service-request analyses* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22988376

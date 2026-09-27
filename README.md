@@ -1,5 +1,7 @@
 # Broken Windows 311 replication materials
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22988376.svg)](https://doi.org/10.5281/zenodo.22988376)
+
 This repository contains **code and generated results only** for the NYC–Chicago 311 analysis. It intentionally excludes the manuscript, reviewer files, raw microdata, analysis-ready Parquet files, virtual environments, caches, and temporary logs.
 
 ## Repository contents
@@ -80,4 +82,15 @@ Start with:
 - `results/metadata/manifest.json` for derived-data provenance.
 
 All notebooks in this archive have their execution output cleared so that the repository contains code rather than machine-specific logs or paths.
+
+## Archived release and citation
+
+The immutable Version 1.0.0 archive is available from Zenodo:
+
+- DOI: [10.5281/zenodo.22988376](https://doi.org/10.5281/zenodo.22988376)
+- GitHub release: [V1.0.0](https://github.com/occbuu/broken-windows/releases/tag/V1.0.0)
+
+Preferred citation:
+
+> Le, N. H. (2026). *Broken Windows 311: Reproducible code and results for NYC and Chicago municipal service-request analyses* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22988376
 
